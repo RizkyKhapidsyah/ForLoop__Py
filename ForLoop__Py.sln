@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ForLoop__Py", "ForLoop__Py.pyproj", "{3C1960A9-F969-4DC5-B76A-24F93DD1FFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1960A9-F969-4DC5-B76A-24F93DD1FFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1960A9-F969-4DC5-B76A-24F93DD1FFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3170C0-5843-4390-B1C0-8F5CC61D9C66}
+	EndGlobalSection
+EndGlobal
